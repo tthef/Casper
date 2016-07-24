@@ -140,6 +140,26 @@ td, th{ padding: 0; }
     content: "\f602";
     font-size: 1.1em;
 }
+.icon-flickr:before {
+    content: "●●";
+    font-size: 0.8em;
+}
+.icon-twitter-menu:before {
+    content: "\f602  ";
+    font-size: 1.3em;
+    color:visited: #c00906;
+    color:active: #c00906;
+    color: #c00906;
+    /*min-width: 7em;*/
+}
+.icon-flickr-menu:before {
+    content: "●● ";
+    font-size: 1.2em;
+    color:visited: #c00906;
+    color:active: #c00906;
+    color: #c00906;
+    /*min-width: 7em;*/
+}
 .icon-google-plus:before {
     content: "\f603";
 }
