@@ -513,6 +513,12 @@ button {
     background: #5ba4e5;
 }
 
+.loop-thumb {
+    float: left;
+    padding-right: 0.5em;
+    padding-top: 0.49em;
+    width: 20%;
+}
 
 /* ==========================================================================
    3. Utilities - These things get used a lot
